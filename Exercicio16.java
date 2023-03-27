@@ -7,7 +7,7 @@
 //          2       16     O JOGO DUROU 14 HORA(S)
 import java.util.Scanner;
 
-public class Exercicio16 {
+public class Exercicio16{
 
     public static void main(String[] args) {
 
